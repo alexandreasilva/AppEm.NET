@@ -1,3 +1,3 @@
-### APP-em-.NET
+### Aplicativo em .NET
 
-#### Criando uma lista de filmes e séries da atividade da Dio.
+#### Criando uma lista simples de filmes e séries utilizando o framework .NET
